@@ -1,18 +1,25 @@
-# Hi there, I'm Mohammed Hassan 👋
+# Hi, I'm Mohammed Hassan
 
-Senior Data Science & AI Student passionate about bridging research with real-world AI applications. I work across machine learning, deep learning, and software engineering turning ideas into robust, scalable solutions.
+**ML / AI Engineer** and Data Science and AI graduate (B.Sc., 2026).
+I build and ship machine learning systems end to end, from data and training through deployment, metrics, and CI.
 
-## 🧠 Interests
-- Machine Learning, Deep Learning, Computer Vision, NLP
-- Model Optimization and Deployment
+### Top skills
+Python, Machine Learning, MLOps, Retrieval-Augmented Generation (RAG), Deep Learning
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### What I work on
+- ML systems and backend engineering (FastAPI, async APIs, Docker, metrics, CI)
+- RAG and NLP (retrieval, evaluation, reranking, vector search)
+- MLOps (MLflow, DVC, monitoring)
+- Computer vision (real-time detection and tracking, on-device inference)
+
+### Tech
+`Python` `PyTorch` `TensorFlow` `Scikit-learn` `HuggingFace` `FastAPI` `Qdrant` `Docker` `SQL` `Pandas` `NumPy`
+
+### Featured projects
+- [VocalMind](https://github.com/mohammedhassan-7/VocalMind): capstone, speech and LLM platform for call-center QA (ASR, diarization, emotion, RAG)
+- [ColPali-DocQA](https://github.com/mohammedhassan-7/ColPali-DocQA): multi-modal RAG for QA over complex PDFs
+- [BlindRoomNavigator](https://github.com/mohammedhassan-7/BlindRoomNavigator): real-time on-device navigation aid
+- [YOLOv10/11/12 Tracking](https://github.com/mohammedhassan-7/YOLOv10-v11-v12-Tracking): vehicle tracking benchmark
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/mohamadhassan28/), mohamed.hassan2022s@gmail.com
